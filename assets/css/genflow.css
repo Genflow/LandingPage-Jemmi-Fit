@@ -349,12 +349,13 @@ ul li {
         padding-left: 0px;
     }
     .section-hero {
-        height: fit-content;
-        padding-bottom: 0px;
+        height: 100vh;
+        align-items: center;
+        display: flex;
     }
-    .page-header {
+    /* .page-header {
         height: 95vh;
-    }
+    } */
     .cover-img {
         width: 80%;
     }
@@ -366,9 +367,9 @@ ul li {
         height: 50px;
         margin-bottom: 0px;
     }
-    .features-6 {
+    /* .features-6 {
         margin-top: -60px;
-    }
+    } */
     .btn {
         font-size: .7rem;
     }
