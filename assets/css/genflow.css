@@ -349,7 +349,8 @@ ul li {
         padding-left: 0px;
     }
     .section-hero {
-        height: 100vh;
+        height: auto;
+        padding-top: 50px;
         align-items: center;
         display: flex;
     }
